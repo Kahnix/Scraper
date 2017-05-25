@@ -2,5 +2,5 @@
  A Scraper Framework
 
 # Requirements
-⋅⋅* Jpegoptim
-..* Convert
+* Jpegoptim
+* Convert
