@@ -1,2 +1,6 @@
 # Scraper
-A Scraper framework for people to use.
+ A Scraper Framework
+
+# Requirements
+* Jpegoptim
+* Convert
