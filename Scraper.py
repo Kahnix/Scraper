@@ -24,6 +24,6 @@ os.system("jpegoptim --size=200k *.jpg")
 pdf = input ("Done! Would you like me to turn this file into a PDF document? Y/N ").lower()
 if pdf == "y":
 	name = input("What would you like me to name it?")
-	os.system("convert `ls -v *.jpg`" + name)
+	os.system("convert `ls -v *.jpg `" + name)
 else:
 	exit
