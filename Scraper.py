@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import urllib.request
 def scrape(link,format,pagestart,pagefin):
 	for i in range(pagestart, pagefin):
